@@ -2,7 +2,7 @@
 
 [Python for Data Science](https://intellipaat.com/python-for-data-science-training/) enables you to master Data Science Analytics using Python. You will work on various python libraries like SciPy, NumPy, Matplotlib, Lambda function, etc. You will master data science analytics skills through real-world projects in multiple domains like Retail, e-commerce, Finance, etc.
 
-## What will you learn in this Python Data Science training?
+### What will you learn in this Python Data Science training?
 
 Introduction to Python for Data Science
 OOP concepts, expressions and functions
@@ -11,7 +11,7 @@ Creating Pig and Hive UDF in Python
 Deploying Python for MapReduce programming
 Real-world Data Science projects
 
-## Why you should take up this Data Science with Python course?
+### Why you should take up this Data Science with Python course?
 
 Python’s design and libraries provide 10 times productivity compared to C, C++ or Java
 A Senior Python Developer in the United States can earn $102,000 – indeed.com
